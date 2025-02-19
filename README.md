@@ -9,3 +9,6 @@ Use case диаграмма:
 
 Терминал:
 ![image](https://github.com/Arleqquinn/MISPIS_10/blob/main/task10_mispis/lab10-master/pictures/img.png)
+
+Диаграмма классов:
+![image](https://github.com/Arleqquinn/MISPIS_10/blob/main/task10_mispis/lab10-master/pictures/image.png)
